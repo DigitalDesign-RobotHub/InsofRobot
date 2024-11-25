@@ -7,6 +7,7 @@
 
 # 编译输出
 bin/
+x64/
 obj/
 *.exe
 *.dll
