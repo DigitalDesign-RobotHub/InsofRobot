@@ -1,0 +1,3 @@
+[submodule "IMKernel"]
+	path = IMKernel
+	url = https://github.com/DigitalDesign-RobotHub/IMKernel.git
