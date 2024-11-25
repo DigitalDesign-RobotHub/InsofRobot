@@ -4,3 +4,6 @@
 [submodule "PipeBending"]
 	path = PipeBending
 	url = https://github.com/DigitalDesign-RobotHub/PipeBending.git
+[submodule "CSharpOCCToolKit"]
+	path = CSharpOCCToolKit
+	url = https://github.com/ICO-Fantasy/CSharpOCCToolKit.git
