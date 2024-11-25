@@ -1,3 +1,6 @@
 [submodule "IMKernel"]
 	path = IMKernel
 	url = https://github.com/DigitalDesign-RobotHub/IMKernel.git
+[submodule "PipeBending"]
+	path = PipeBending
+	url = https://github.com/DigitalDesign-RobotHub/PipeBending.git
