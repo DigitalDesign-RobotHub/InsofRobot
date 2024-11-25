@@ -1,0 +1,22 @@
+# Visual Studio 文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# 编译输出
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# 临时文件
+*.tmp
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
