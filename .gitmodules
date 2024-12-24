@@ -7,3 +7,6 @@
 [submodule "CSharpOCCToolKit"]
 	path = CSharpOCCToolKit
 	url = https://github.com/ICO-Fantasy/CSharpOCCToolKit.git
+[submodule "IMKernelUI"]
+	path = IMKernelUI
+	url = C:/Program Files/Git/path/to/IMKernelUI
