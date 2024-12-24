@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeBendingDAL", "PipeBendi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeBendingUI", "PipeBending\PipeBendingUI\PipeBendingUI.csproj", "{C6B1B113-D5C1-45F8-AD37-8771704F83D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMKernelUI", "IMKernelUI\IMKernelUI.csproj", "{B32824AF-1675-4045-A12B-C2215B875961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{C6B1B113-D5C1-45F8-AD37-8771704F83D4}.Release|x64.Build.0 = Release|Any CPU
 		{C6B1B113-D5C1-45F8-AD37-8771704F83D4}.Release|x86.ActiveCfg = Release|Any CPU
 		{C6B1B113-D5C1-45F8-AD37-8771704F83D4}.Release|x86.Build.0 = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|x64.Build.0 = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Debug|x86.Build.0 = Debug|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|x64.ActiveCfg = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|x64.Build.0 = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|x86.ActiveCfg = Release|Any CPU
+		{B32824AF-1675-4045-A12B-C2215B875961}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
