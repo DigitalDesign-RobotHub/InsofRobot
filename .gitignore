@@ -21,3 +21,6 @@ obj/
 # 操作系统文件
 .DS_Store
 Thumbs.db
+
+#测试文件
+TestPipe/
